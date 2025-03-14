@@ -19,3 +19,4 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser("https://www.google.co.in/")
 WebUI.maximizeWindow()
+WebUI.refresh()
